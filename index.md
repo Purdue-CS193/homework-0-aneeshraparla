@@ -13,8 +13,8 @@ Syntax highlighted code block
 
 # Aneesh Raparla's First CS193 Homework
 ## - I love the friends I've made
-- I love the content I've learned
-- I enjoy the workload so far
+## - I love the content I've learned
+## - I enjoy the workload so far
 ### Header 3
 
 - Bulleted
